@@ -82,8 +82,8 @@
 		
 		right_layer {
 		bindings = <
-		&trans  &kp LC(W) &trans  &trans  &kp LC(T)    			&trans  &trans &UP &trans &kp BSPC 
-		&kp LSHFT  &kp F1  &kp F2  &kp F3  &kp F4 				&trans &LEFT &DOWN  &RIGHT  &trans
+		&trans  &kp LC(W) &trans  &trans  &kp LC(T)    			&trans  &trans &kp UP &trans &kp BSPC 
+		&kp LSHFT  &kp F1  &kp F2  &kp F3  &kp F4 				&trans &kp LEFT &kp DOWN  &kp RIGHT  &trans
 		&kp LCTRL  &kp F5 &kp F6 &kp F7   &kp F11    			&trans &kp C_VOL_UP &kp C_VOL_DN &trans &kp KP_NUM
 					  &trans &trans  				&trans  &mo 2 
 		>;

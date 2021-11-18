@@ -66,7 +66,7 @@
 		bindings = <
 		&mt TAB Q &kp W &kp E &kp R &kp T 						&kp Y &kp U  &kp I    &kp O   &mt BSPC P
 		&mt LSHFT A &mt LALT S &kp D &kp F &kp G 			        	   &kp H &kp J &kp K &mt L SEMI &kp QUOT
-		&mt LCTRL Z &kp X &kp C &kp V &kp B				        &kp N &kp M  &kp CMMA &kp DOT &mt LSFT ENTER
+		&mt LCTRL Z &kp X &kp C &kp V &kp B				        &kp N &kp M  &kp CMMA &kp DOT &mt ENTER LSHFT
           				&mo 1 &mt ENTER LGUI  				&mt RCTRL SPC &mo 2 
 		>;
 		};
@@ -82,8 +82,8 @@
 		
 		right_layer {
 		bindings = <
-		&trans  &kp LC(W) &trans  &trans  &kLC(T)    			&trans  &trans &up &trans &backspace 
-		&kp LSHFT  &kp F1  &kp F2  &kp F3  &kp F4 				&trans &left &down  &right  &trans
+		&trans  &kp LC(W) &trans  &trans  &kp LC(T)    			&trans  &trans &UP &trans &BSPC 
+		&kp LSHFT  &kp F1  &kp F2  &kp F3  &kp F4 				&trans &LEFT &DOWN  &RIGHT  &trans
 		&kp LCTRL  &kp F5 &kp F6 &kp F7   &kp F11    			&trans &kp C_VOL_UP &kp C_VOL_DN &trans &kp KP_NUM
 					  &trans &trans  				&trans  &mo 2 
 		>;

@@ -76,7 +76,7 @@
 		&kp NUM_1 &kp NUM_2 &kp NUM_3 &kp NUM_4 &kp NUM_5		     &kp NUM_6 &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0 
 		&kp CAPS &kp LC(TAB) &kp DQT &kp PIPE2 &kp HASH 		     &kp MINUS &kp EQL  &kp LBKT &kp RBKT &kp BSLH
 		&kp LSHFT &kp TILDE &trans &trans &kp TILDE2 	     &trans &kp GRAVE &trans &trans &kp DEL 
-					            &mo 3  &kp ENTER 		     &kp SPC &mo 2 
+					            &mo 2  &kp ENTER 		     &kp SPC &mo 2 
 		>;
 		};
 		
@@ -85,7 +85,7 @@
 		&trans  &kp LC(W) &trans  &trans  &kp LC(T)    			&trans  &trans &kp UP &trans &kp BSPC 
 		&kp LSHFT  &kp F1  &kp F2  &kp F3  &kp F4 				&trans &kp LEFT &kp DOWN  &kp RIGHT  &trans
 		&kp LCTRL  &kp F5 &kp F6 &kp F7   &kp F11    			&trans &kp C_VOL_UP &kp C_VOL_DN &trans &kp KP_NUM
-					  &trans &trans  				&trans  &mo 2 
+					  &trans &mo 3  				&trans  &mo 2 
 		>;
 		};	
 		
